@@ -1,0 +1,5 @@
+DATABASE_URL=postgres://udqnlmfy:4e8mNwqqp1YtZS9BfT18_oL0CBSj08fY@chunee.db.elephantsql.com/udqnlmfy
+DATABASE_URL_DEVELOPMENT=postgres://cseisjne:9vbEQnh3kLfNXKxh9csjdLmtvb64hFkj@chunee.db.elephantsql.com/cseisjne
+DATABASE_URL_TEST=postgres://nodkomig:r9m3Zlq7TLjllb9WZTameYwL8ltCL1-5@chunee.db.elephantsql.com/nodkomig
+DATABASE_URL_PREVIEW=postgres://qmpfnohe:CHXObNyA9BkwmBbPlXsjV0eBDHPq8r40@chunee.db.elephantsql.com/qmpfnohe
+LOG_LEVEL=info
